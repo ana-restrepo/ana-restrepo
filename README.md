@@ -1,6 +1,6 @@
 ### Hi there! My name is Ana
 
-### An aspiring Software Engineer, with a background in Graphic Design and Product Engineering
+### An aspiring Software Engineer with a background in Graphic Design and Product Engineering
 
 
 
